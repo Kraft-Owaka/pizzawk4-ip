@@ -36,7 +36,8 @@ NOTE: Do not include the root folder, only the contents of the root folder.
 ## Setup Complete
     Hopefully the setup process the went well and it all you now have a working website!
 # Known Bugs
-There are no known bugs at this time
+ - On checkout the website only allows for location delivery and not the option of individual pick-up.
+ - Generation of a list of items that have been added into the cart on checkout is not yet fully functional. under construction.
 
 # Technologies Used
     - HTML
