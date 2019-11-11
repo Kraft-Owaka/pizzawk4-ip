@@ -2,6 +2,9 @@
 # Description 
 For this project, I created an interactive pizza ordering menu using JavaScript. jQuery, HTML and CSS The application allows the user to select from multiple different pizza options, including: size, crust, topping. There is a scrol down list for the  user to select one option each for size, crust, topping, and cheese, and checks out to the cart. particular options will add additional cost to the order. When the user is finished with creating their order, they click the chart button, which brings up an order recipt with the itemized cost of their various selections and a grand total. and allow them to give their location for delivery.
 
+## sample screen shot image
+ <img src ="image/screenshot.jpg">
+
 ## Dependencies
  * Bootstrap.js
     -Version: 3.3.4
@@ -15,6 +18,9 @@ For this project, I created an interactive pizza ordering menu using JavaScript.
 You need to download the project either using Git pull or download a snapshot of the Master branch of this repo.
 Snapshot
 After you've downloaded, place /website/ in the web folder for your PHP enabled Webserver
+
+## GitHub link
+* live link: [https://github.com/Kraft-Owaka/.............................]
 
 ## Dependency Setup
 NOTE: Do not include the root folder, only the contents of the root folder.
