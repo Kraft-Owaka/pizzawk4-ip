@@ -219,7 +219,7 @@ $(document).ready(function() {
 
     $("#proceed").click(function() {
         $('.modal').modal('hide');
-       alertify.success("Thank you for shopping,your order will be delivered to you within  10 minutes");
+       alertify.success("Thank you for shopping,your order will be delivered to your location within 10 minutes");
         shoppingCart.clearCart();
 
 
