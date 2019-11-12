@@ -37,7 +37,7 @@ NOTE: Do not include the root folder, only the contents of the root folder.
     Hopefully the setup process the went well and it all you now have a working website!
 # Known Bugs
  - On checkout the website only allows for location delivery and not the option of individual pick-up.
- - Generation of a list of items that have been added into the cart on checkout is not yet fully functional. under construction.
+ - on cart after selection of the chiken tikka on click of the + button it ads a new undefined item "chicken" to the list.
 
 # Technologies Used
     - HTML
