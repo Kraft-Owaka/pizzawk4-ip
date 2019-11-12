@@ -1,6 +1,6 @@
 # pizzawk4-ip
 # Description 
-For this project, I created an interactive pizza ordering menu using JavaScript. jQuery, HTML and CSS The application allows the user to select from multiple different pizza options, including: size, crust, topping. There is a scrol down list for the  user to select one option each for size, crust, topping, and cheese, and checks out to the cart. particular options will add additional cost to the order. When the user is finished with creating their order, they click the chart button, which brings up an order recipt with the itemized cost of their various selections and a grand total. and allow them to give their location for delivery.
+For this project, I created an interactive pizza ordering menu using JavaScript. jQuery, HTML and CSS The application allows the user to select from multiple different pizza options, including: size, crust, topping. There is a scrol down list for the  user to select one option each for size, crust, topping, and cheese, and checks out to the cart. particular options will add additional cost to the order. When the user is finished with creating their order, they click the chart button, which brings up an order recipt with the itemized cost of their various selections and a grand total, then allow them to give their location for delivery on checkout.
 
 #### [! Image description](link-to-image) 
 <img src = "image/website.png">
@@ -17,7 +17,7 @@ For this project, I created an interactive pizza ordering menu using JavaScript.
 ### Setup
 You need to download the project either using Git pull or download a snapshot of the Master branch of this repo.
 Snapshot
-After you've downloaded, place /website/ in the web folder for your PHP enabled Webserver
+After you've downloaded, place /website/ in the web folder for your Webserver
 
 ## GitHub link
 * live link: [https://github.com/Kraft-Owaka/pizzawk4-ip/settings]
