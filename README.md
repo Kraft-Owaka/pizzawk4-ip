@@ -37,7 +37,7 @@ NOTE: Do not include the root folder, only the contents of the root folder.
     Hopefully the setup process the went well and it all you now have a working website!
 # Known Bugs
  - On checkout the website only allows for location delivery and not the option of individual pick-up.
- - on cart after selection of the chiken tikka and te chicken $ mashroom on click of the + button it ads a new undefined item "chicken" to the list. in an event you get the NAN order show up on checkout cancel the spesific order and continue.
+ - on cart after selection of the chicken tikka and chicken $ mashroom on click of the + button it adds a new undefined item "chicken" to the list.  in an event you get the undefined order showing up on checkout cancel the spesific order and continue the other oders will work as expected on addition of orders.
 
 # Technologies Used
     - HTML
